@@ -1,2 +1,2 @@
 GEOSYS-XYZ
-www.geosys.xyz
+geosys.xyz
